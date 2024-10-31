@@ -1,0 +1,27 @@
+.oxsn_xs_vertical_align_text_bottom {
+	vertical-align: text-bottom;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_vertical_align_text_bottom {
+		vertical-align: text-bottom !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_vertical_align_text_bottom {
+		vertical-align: text-bottom !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_vertical_align_text_bottom {
+		vertical-align: text-bottom !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_vertical_align_text_bottom {
+		vertical-align: text-bottom !important;
+	}
+}

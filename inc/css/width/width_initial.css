@@ -1,0 +1,42 @@
+.oxsn_xs_width_initial {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: initial;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_width_initial {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: initial !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_width_initial {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: initial !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_width_initial {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: initial !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_width_initial {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: initial !important;
+	}
+}

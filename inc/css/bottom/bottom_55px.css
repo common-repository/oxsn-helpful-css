@@ -1,0 +1,27 @@
+.oxsn_xs_bottom_55px {
+	bottom: 55px;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_bottom_55px {
+		bottom: 55px !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_bottom_55px {
+		bottom: 55px !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_bottom_55px {
+		bottom: 55px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_bottom_55px {
+		bottom: 55px !important;
+	}
+}

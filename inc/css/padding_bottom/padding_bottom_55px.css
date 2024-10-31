@@ -1,0 +1,27 @@
+.oxsn_xs_padding_bottom_55px {
+	padding-bottom: 55px;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_padding_bottom_55px {
+		padding-bottom: 55px !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_padding_bottom_55px {
+		padding-bottom: 55px !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_padding_bottom_55px {
+		padding-bottom: 55px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_padding_bottom_55px {
+		padding-bottom: 55px !important;
+	}
+}

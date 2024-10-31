@@ -1,0 +1,27 @@
+.oxsn_xs_float_left {
+	float: left;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_float_left {
+		float: left !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_float_left {
+		float: left !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_float_left {
+		float: left !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_float_left {
+		float: left !important;
+	}
+}

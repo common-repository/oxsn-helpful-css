@@ -1,0 +1,27 @@
+.oxsn_xs_right_48px {
+	right: 48px;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_right_48px {
+		right: 48px !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_right_48px {
+		right: 48px !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_right_48px {
+		right: 48px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_right_48px {
+		right: 48px !important;
+	}
+}

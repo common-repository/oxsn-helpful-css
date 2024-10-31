@@ -1,0 +1,27 @@
+.oxsn_xs_padding_initial {
+	padding: initial;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_padding_initial {
+		padding: initial !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_padding_initial {
+		padding: initial !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_padding_initial {
+		padding: initial !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_padding_initial {
+		padding: initial !important;
+	}
+}

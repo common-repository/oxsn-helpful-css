@@ -1,0 +1,27 @@
+.oxsn_xs_display_inline_table {
+	display: inline-table;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_display_inline_table {
+		display: inline-table !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_display_inline_table {
+		display: inline-table !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_display_inline_table {
+		display: inline-table !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_display_inline_table {
+		display: inline-table !important;
+	}
+}

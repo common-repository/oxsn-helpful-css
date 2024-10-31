@@ -1,0 +1,27 @@
+.oxsn_xs_opacity_0_5 {
+	opacity: 0.5;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_opacity_0_5 {
+		opacity: 0.5 !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_opacity_0_5 {
+		opacity: 0.5 !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_opacity_0_5 {
+		opacity: 0.5 !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_opacity_0_5 {
+		opacity: 0.5 !important;
+	}
+}

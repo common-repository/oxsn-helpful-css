@@ -1,0 +1,27 @@
+.oxsn_xs_z_index_10 {
+	z-index: 10;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_z_index_10 {
+		z-index: 10 !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_z_index_10 {
+		z-index: 10 !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_z_index_10 {
+		z-index: 10 !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_z_index_10 {
+		z-index: 10 !important;
+	}
+}

@@ -1,0 +1,27 @@
+.oxsn_xs_line_height_96px {
+	line-height: 96px;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_line_height_96px {
+		line-height: 96px !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_line_height_96px {
+		line-height: 96px !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_line_height_96px {
+		line-height: 96px !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_line_height_96px {
+		line-height: 96px !important;
+	}
+}

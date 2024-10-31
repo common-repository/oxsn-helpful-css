@@ -1,0 +1,27 @@
+.oxsn_xs_width_8pr {
+	width: 8%;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_width_8pr {
+		width: 8% !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_width_8pr {
+		width: 8% !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_width_8pr {
+		width: 8% !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_width_8pr {
+		width: 8% !important;
+	}
+}

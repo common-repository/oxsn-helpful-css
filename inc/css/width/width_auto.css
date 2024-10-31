@@ -1,0 +1,42 @@
+.oxsn_xs_width_auto {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width: auto;
+}
+
+@media (min-width: 544px) {
+	.oxsn_sm_width_auto {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: auto !important;
+	}
+}
+
+@media (min-width: 768px) {
+	.oxsn_md_width_auto {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: auto !important;
+	}
+}
+
+@media (min-width: 992px) {
+	.oxsn_lg_width_auto {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: auto !important;
+	}
+}
+
+@media (min-width: 1200px) {
+	.oxsn_xl_width_auto {
+		-webkit-box-sizing: border-box;
+		-moz-box-sizing: border-box;
+		box-sizing: border-box;
+		width: auto !important;
+	}
+}
